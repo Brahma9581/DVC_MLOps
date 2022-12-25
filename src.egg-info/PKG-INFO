@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for dvc ml pipeline demo
+Home-page: https://github.com/Brahma9581/DVC_MLOps
+Author: Brahma9581
+Author-email: brahma.danna@gmail.com
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
